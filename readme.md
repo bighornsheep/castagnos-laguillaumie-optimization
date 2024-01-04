@@ -6,4 +6,4 @@
 - MPFR (last used version is mpfr-4.2.1)
 - SCONS (last used version is 4.6.0)
     - commented unused functions to fix errors
-    - removed `rt` from libs in SConscript files since my machine is MacOS
+    - removed `rt` from libs in timing SConscript files since my machine is MacOS
